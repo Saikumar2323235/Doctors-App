@@ -1,4 +1,4 @@
-import './Styles.css'
+import './styles.css'
 function Doctorcard({name,specialization,gender}) {
   return (
     <div className='doctorcard'>
